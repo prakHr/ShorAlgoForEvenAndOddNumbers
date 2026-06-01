@@ -1,4 +1,4 @@
-# URL :- [https://pypi.org/project/my-shor-package/4.0.0/]
+URL :- https://pypi.org/project/my-shor-package/4.0.0/
 
 # ShorAlgoForEvenNumbers
 contains solution of uncrackable shor's algorithm using data structures and parallel processing
